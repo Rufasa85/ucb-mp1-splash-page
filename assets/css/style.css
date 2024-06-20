@@ -1,0 +1,67 @@
+* {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+header,
+footer {
+  background-color: salmon;
+  text-align: right;
+  padding: 10px;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+header a {
+  font-size: 24px;
+  margin: 10px;
+}
+
+main {
+  text-align: center;
+}
+
+h1 {
+  margin-top: 64px;
+}
+
+main p {
+  width: 30%;
+  margin: 0 auto;
+}
+
+#contact-section {
+  text-align: center;
+  background-color: cornflowerblue;
+  padding: 20px 0;
+}
+
+form {
+  border: 5px solid brown;
+  padding: 20px 0;
+  border-radius: 10px;
+  width: 30%;
+  margin: 0 auto;
+}
+
+button,
+label {
+  font-size: 24px;
+}
+
+button {
+  background-color: brown;
+  color: salmon;
+}
+
+.form-section {
+  margin: 10px 0;
+}
+
+footer {
+  text-align: center;
+}
